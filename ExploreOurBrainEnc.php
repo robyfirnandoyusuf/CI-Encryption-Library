@@ -1,5 +1,5 @@
 <?php
-class Encryption {
+class ExploreOurBrainEnc {
 
     var $skey = "3Xpl0r30urBr41n";
 
