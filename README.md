@@ -1,4 +1,4 @@
-# CI-Encryption-Library
+# ExploreOurBrain CI Encryption Library
 
 ## USAGE :
 - ``` $this->load->library("ExploreOurBrainEnc");```
