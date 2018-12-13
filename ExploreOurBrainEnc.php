@@ -1,4 +1,9 @@
 <?php
+/**
+* @author Nando (GreyCat) - ExploreOurBrain
+* @category CI Library
+*/
+
 class ExploreOurBrainEnc {
 
     var $skey = "3Xpl0r30urBr41n";
